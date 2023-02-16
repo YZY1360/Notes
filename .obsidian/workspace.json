@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "二建/机电工程法规/建设工程基本法律知识.md",
+                "file": "二建/机电工程法规/一、建设工程基本法律知识.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "二建/机电工程法规/建设工程基本法律知识.md",
+                "file": "二建/机电工程法规/一、建设工程基本法律知识.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "二建/机电工程法规/建设工程基本法律知识.md",
+                "file": "二建/机电工程法规/一、建设工程基本法律知识.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "二建/机电工程法规/建设工程基本法律知识.md"
+                "file": "二建/机电工程法规/一、建设工程基本法律知识.md"
               }
             }
           }
@@ -162,6 +162,8 @@
   "active": "f0257f811b208357",
   "lastOpenFiles": [
     "二建/机电工程法规.md",
+    "二建/机电工程法规/一、建设工程基本法律知识.md",
+    "二建/机电工程法规/建设工程基本法律知识.md",
     "二建/机电工程管理与实务.md",
     "README.md",
     "二建/机电工程施工技术.md"
